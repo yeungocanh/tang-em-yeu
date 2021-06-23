@@ -14,5 +14,3 @@ const CONFIG = {
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.messenger.com/t/100008065122193'
 
-```
-
