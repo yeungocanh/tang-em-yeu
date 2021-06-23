@@ -1,9 +1,6 @@
 const CONFIG = {
     introTitle: 'Ngọc Anh à!',
-    introDesc: `Anh không biết nói sao cho em hiểu nên anh làm cho em cái vày nè
-    Anh không biết nói sao cho em hiểu nên anh làm cho em cái vày nè
-    Anh không biết nói sao cho em hiểu nên anh làm cho em cái vày nè
-    `,
+    introDesc: `Anh không biết nói sao cho em hiểu nên anh làm cho em cái vày nè`,
     btnIntro: 'hihi',
     title: 'Anh biết em yêu anh nhưng anh thì cũng không biết làm gì cả anh chỉ có cái này tặng em 😙',
     desc: 'Anh yêu em 😘',
