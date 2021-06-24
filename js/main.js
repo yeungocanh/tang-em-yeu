@@ -22,7 +22,7 @@ function firstQuestion(){
     Swal.fire({
         title: CONFIG.introTitle,
         text: CONFIG.introDesc,
-        videoUrl: 'sound/UUXA9114 (1).mp4',
+        imgUrl: 'img/lookMe.jpg',
         imageWidth: 300,
         imageHeight: 300,
         background: '#fff url("img/iput-bg.jpg")',
