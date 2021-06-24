@@ -35,7 +35,7 @@ function firstQuestion(){
 
  // switch button position
  function switchButton() {
-    var audio = new Audio('sound/yeuem.mp3');
+    var audio = new Audio('sound/mrmsc.mp3');
     audio.play();
     var leftNo = $('#no').css("left");
     var topNO = $('#no').css("top");
@@ -48,7 +48,7 @@ function firstQuestion(){
 }
 // move random button póition
 function moveButton() {
-    var audio = new Audio('sound/yeuem.mp3');
+    var audio = new Audio('sound/mrmsc.mp3');
     audio.play();
     var x = Math.random() * ($(window).width() - $('#no').width()) * 0.9 ;
     var y = Math.random() * ($(window).height() - $('#no').height()) * 0.9;
@@ -96,7 +96,7 @@ function textGenerate() {
 
 // show popup
 $('#yes').click(function() {
-    var audio = new Audio('sound/yeuem.mp3');
+    var audio = new Audio('sound/mrmsc.mp3');
     audio.play();
     Swal.fire({
         title: CONFIG.question,
