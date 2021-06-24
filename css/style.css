@@ -24,7 +24,6 @@
      display: flex;
      justify-content: flex-start;
      align-items: center;
-	volume:100%;
  }
 .banner .video-bg{
      position: relative;
@@ -33,7 +32,6 @@
      width:100%;
      height: 400px;
      z-index:1;
-	volume:100%;
  }
 #bg{
   position: fixed;
