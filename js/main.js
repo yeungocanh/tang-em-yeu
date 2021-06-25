@@ -96,7 +96,7 @@ function textGenerate() {
 
 // show popup
 $('#yes').click(function() {
-    var audio = new Audio('sound/');
+    var audio = new Audio('sound/mrmsc.mp3');
     audio.play();
     Swal.fire({
         title: CONFIG.question,
